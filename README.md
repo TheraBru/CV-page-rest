@@ -6,6 +6,7 @@ Detta projekt är en REST-webbtjänst för att presentera innehållet i en datab
 
 ### Använda projektet
 För att använda detta projekt behövs en databas liknande detta uml-diagram ![alt text](images/database_UML.png "UML-diagram över databasen")
+
 Webbtjänsten har full CRUD-funktionalitet och använder sig av parametrarna school, course, job och website för att manövrera till de olika tabellerna. 
 
 Vill du exempelvis nå course med id 3 skrivs detta i följande format:
